@@ -1,0 +1,17 @@
+.repos {
+    list-style: none;
+}
+.repos li {
+    padding: 10px 0;
+    margin: 0;
+    border-bottom: #ccc solid 1px;
+}
+
+.repos .repo-title {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.repos .repo-desc {
+    padding-bottom: 10px;
+}
